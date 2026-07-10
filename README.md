@@ -4,6 +4,8 @@ SudoCube is a cross-platform .NET MAUI puzzle game inspired by Sudoku, built aro
 
 This document provides a product-level summary of the app and its capabilities.
 
+Web Site: https://cube-16.ca
+
 ## Application Overview
 
 SudoCube focuses on three goals:
